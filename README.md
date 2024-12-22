@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanuja Dadure</h1>
 
-![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/a5c1320b-f147-436e-9fdf-bb86c130d093)
+![Black Modern Minimalist Beauty Business LinkedIn Article Cover Image](https://github.com/user-attachments/assets/58686312-e854-47aa-8f8b-cbc866f76734)
 
 ## 🔍 About Me
 Aspiring Data Analyst skilled in Excel, Power BI, Tableau, SQL, and Python with a strong foundation in transforming data into actionable insights. Proven academic and project experience in gathering, cleaning, analyzing, and visualizing data to support data-driven decisions. Known for strong analytical skills, clear communication, and a deep curiosity for uncovering insights that add value.
