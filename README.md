@@ -35,7 +35,7 @@ This dashboard is for presenting my insights to the regional manager of the coff
   ## 📫 Get in Touch:
 - 🔗 LinkedIn: [Tanuja Dadure](https://www.linkedin.com/in/tanuja-dadure-3b4494249/)
 - 📧 Email: [tanujadadure123@gmail.com](mailto:tanujadadure123@gmail.com)
-- 📦 GitHub: [tanujadaure](https://github.com/tanu4419)
+- 📦 GitHub: [tanujadadure](https://github.com/tanu4419)
 
 
 
