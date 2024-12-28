@@ -17,18 +17,27 @@ Aspiring Data Analyst skilled in Excel, Power BI, Tableau, SQL, and Python with 
 ### Online Shopping Data Analysis:
 Analyzed an online shopping database in SQL to understand user spending patterns, identify top-selling products and categories, track trends in customer reviews and ratings, assess seller performance, and highlight products with low or zero sales to optimize inventory.
 - **Tools Used:** MySQL
+- **Project Link:** [Online Shopping Data Analysis](https://github.com/tanu4419/Online-Shopping-Data-Analysis)
 ---
 ### Crime Against Women Analysis 2001-2014 (India):
 This project provides a comprehensive analysis of crimes against women in India between 2001 and 2014. Using SQL for data manipulation and Power BI for visualization, the project creates an interactive report to help identify key trends, state-wise crime distribution, and year-over-year crime growth.
 - **Tools Used:** Excel, MySQL, Power BI
+- **Project Link:** [Crime Against Women Analysis 2001-2014 (India)](https://github.com/tanu4419/Crime_Against_Women_2001-2014-India-)
 ---
 ### Credit_Card_Financial_Report Visualization with Power-Bi:
 The aim is to create a comprehensive weekly credit card dashboard that provides real-time insights into key performance metrics and trends. This will enable stakeholders to monitor, analyze, and optimize credit card operations, supporting data-driven decisions and improving overall efficiency.
-- **Tools Used:** Excel, Power BI 
+- **Tools Used:** Excel, Power BI
+- **Project Link:** [Credit_Card_Financial_Report Visualization with Power-Bi](https://github.com/tanu4419/Credit_Card_Transaction_Report_Visualization_with_Power_BI)
 ---
 ### Coffee Shop Sales Analysis Report:
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
 - **Tools Used:** Excel
+- **Project Link:** [Coffee Shop Sales Analysis Report](https://github.com/tanu4419/Coffee-Shop-Sales-Analysis)
+---
+### Netflix Originals Data Analysis:
+This project focuses on identifying key characteristics that contribute to the success of Netflix Original movies. By examining attributes such as genre, runtime, IMDB score, and language, the goal is to understand the factors that influence the popularity and reception of these films.
+- **Tools Used:** Excel
+- **Project Link:** [Netflix Originals Data Analysis](https://github.com/tanu4419/Netflix_Originals_Shows)
 
 ---
 
