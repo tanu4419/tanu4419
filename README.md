@@ -44,7 +44,7 @@ This project focuses on identifying key characteristics that contribute to the s
   ## 📫 Get in Touch:
 - 🔗 LinkedIn: [Tanuja Dadure](https://www.linkedin.com/in/tanuja-dadure-3b4494249/)
 - 📧 Email: [tanujadadure123@gmail.com](mailto:tanujadadure123@gmail.com)
-- 📦 GitHub: [tanujadadure](https://github.com/tanu4419)
+- 📦 GitHub: where you are right now 😄
 
 
 
