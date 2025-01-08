@@ -1,4 +1,4 @@
-# Hi there, I'm Tanuja Dadure! 👋
+# Hi there, I'm Tanuja Dadure ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3.5%">
 
 ![Beige   Black Geometric Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/0f57e5da-b417-403e-a3fb-efd442203b22)
 ## 🔍 About Me
