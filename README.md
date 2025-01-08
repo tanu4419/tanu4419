@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanuja Dadure</h1>
+# Hi there, I'm Tanuja Dadure! 👋
 
 ![Black Modern Minimalist Beauty Business LinkedIn Article Cover Image](https://github.com/user-attachments/assets/58686312-e854-47aa-8f8b-cbc866f76734)
 
